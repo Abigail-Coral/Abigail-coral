@@ -1,7 +1,5 @@
-## Hi there my name is Abigail 👋
+## Hi, my name is Abigail 👋🏾
 ## I'm currently learning python and i've uploaded a few projects
-## I'm interested in learning Flask and Django 
-## I hope to become a Back-end Engineer 
 
 <h3>My GitHub contributions summary</h3>
 
