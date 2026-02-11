@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there my name is Abigail 👋
+## I'm currently learning python and i've uploaded a few projects
+## I'm interested in learning Flask and Django 
+## I hope to become a Back-end Engineer 
 
 <!--
 **Abigail-Coral/Abigail-coral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
